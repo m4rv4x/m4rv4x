@@ -7,10 +7,11 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](link)
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](link)
 
+
 **Currently learning :**
 - Python3.11
 - LLMs (Mistral)
+![Mistral](https://github.com/m4rv4x/m4rv4x/assets/33978801/cb72a6bb-c932-4a12-89aa-37297003403a)
 
 **Available for Projects**
-
-  Reach me at m4rv4x@proton.me
+- Reach me at m4rv4x@proton.me
