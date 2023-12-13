@@ -7,6 +7,10 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](link)
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](link)
 
-* Currently working on python and learning LLMs...
+**Currently learning :**
+- Python3.11
+- LLMs (Mistral)
+
+**Available for Projects**
 
   Reach me at m4rv4x@proton.me
