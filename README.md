@@ -12,7 +12,7 @@
 - Python3.11
 - LLMs (Mistral)
   
-![Mistral](https://github.com/m4rv4x/m4rv4x/assets/33978801/cb72a6bb-c932-4a12-89aa-37297003403a)
+[![Mistral](https://github.com/m4rv4x/m4rv4x/assets/33978801/cb72a6bb-c932-4a12-89aa-37297003403a)](https://mistral.ai/)
 
 **Available for Projects**
 - Reach me at m4rv4x@proton.me
