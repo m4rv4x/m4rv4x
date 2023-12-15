@@ -16,3 +16,8 @@
 
 **Available for Projects**
 - Reach me at m4rv4x@protonmail.com
+
+**My Websites**
+- [WebSec](https://m4rv4x.com)
+- [Blog](https://m4rv4x.github.io/skills-github-pages/)
+- [Links](https://mistral.ai/)
