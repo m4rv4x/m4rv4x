@@ -14,10 +14,12 @@
   
 [![Mistral](https://github.com/m4rv4x/m4rv4x/assets/33978801/cb72a6bb-c932-4a12-89aa-37297003403a)](https://mistral.ai/)
 
-**Available for Projects**
-- Reach me at m4rv4x@protonmail.com
+**[My Gists](https://gist.github.com/m4rv4x)**
 
 **My Websites**
 - [WebSec](https://m4rv4x.com)
 - [Blog](https://m4rv4x.github.io/skills-github-pages/)
 - [Links](https://mistral.ai/)
+
+**Available for Projects**
+- Reach me at m4rv4x@protonmail.com
