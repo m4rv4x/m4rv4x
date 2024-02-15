@@ -9,4 +9,4 @@
 
 - Reach me at m4rv4x@protonmail.com
 
-[(https://i.gifer.com/bfR.mp4)]
+[(https://i.gifer.com/bfR.gif)]
