@@ -9,4 +9,3 @@
 
 - Reach me at m4rv4x@protonmail.com
 
-![bfR](https://github.com/m4rv4x/m4rv4x/assets/33978801/56487b0c-0e4c-474a-8f79-8cceb43becf3)
