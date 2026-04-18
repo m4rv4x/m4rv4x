@@ -44,6 +44,14 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rv4x&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
+
+### 🏆 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=m4rv4x&hide_border=true&theme=transparent" alt="streak"/>
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=m4rv4x&bg_color=00000000&color=000&line=000&point=000&hide_border=true&custom_title=Recent%20activity" alt="activity graph"/>
+</p>
+
 ### 🌐 Find me
 
 - 🌍 [marvax.fun](https://marvax.fun)
