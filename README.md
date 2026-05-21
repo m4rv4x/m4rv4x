@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm marvax 🗡️</h1>
+<h1 align="center">marvax</h1>
 
 <p align="center">
-  <i>Builder · self-hosted infra · AI tooling · minimal &amp; sharp.</i>
+  <i>Builder focused on self-hosted tools, web products, automation, and practical AI.</i>
 </p>
 
 <p align="center">
@@ -12,52 +12,38 @@
 
 ---
 
-### 🔧 Stack I ship with
+## What I build
 
-<p>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Ollama-000?style=flat-square&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
+- Self-hosted apps with simple deployment paths.
+- Small web products with clean UX and minimal overhead.
+- Automation, Linux tooling, and practical AI experiments.
 
-### 🚀 Featured
+## Current focus
 
-| Project | What it does |
+- Improving `marvax.fun` and my public writing pipeline.
+- Keeping a cleaner set of public repos with better docs.
+- Contributing useful fixes upstream when the scope is tight and real.
+
+## Selected public projects
+
+| Project | Summary |
 |---|---|
-| [**nextjs-chat**](https://github.com/m4rv4x/nextjs-chat) | AI chatbot — Next.js 14 + Vercel AI SDK + OpenAI + KV |
-| [**mxgpt**](https://github.com/m4rv4x/mxgpt) | Self-hosted AI webchat (React + Ollama) |
-| [**discord-gpt-bot**](https://github.com/m4rv4x/discord-gpt-bot) | Personable Discord bot powered by OpenAI |
-| [**marvax-fun-site**](https://github.com/m4rv4x/marvax-fun-site) | Landing page → [marvax.fun](https://marvax.fun) |
-| [**m4rv4x.github.io**](https://github.com/m4rv4x/m4rv4x.github.io) | Blog (Jekyll Chirpy) |
+| [**marvax-fun-site**](https://github.com/m4rv4x/marvax-fun-site) | Personal landing page for `marvax.fun`. |
+| [**m4rv4x.github.io**](https://github.com/m4rv4x/m4rv4x.github.io) | Blog and notes hub powered by Jekyll Chirpy. |
+| [**mxgpt**](https://github.com/m4rv4x/mxgpt) | Self-hosted AI chat interface for Ollama-style local setups. |
+| [**scripts**](https://github.com/m4rv4x/scripts) | Shell and desktop utility scripts collected over time. |
+| [**kaomojis**](https://github.com/m4rv4x/kaomojis) | Lightweight kaomoji collection. |
 
-### 📊 Stats
+## Stack
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m4rv4x&show_icons=true&hide_border=true&theme=transparent&hide=issues"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rv4x&layout=compact&hide_border=true&theme=transparent"/>
-</p>
+TypeScript, React, Next.js, Python, Docker, Debian, Proxmox, Ollama.
 
+## Find me
 
-### 🏆 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=m4rv4x&hide_border=true&theme=transparent" alt="streak"/>
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=m4rv4x&bg_color=00000000&color=000&line=000&point=000&hide_border=true&custom_title=Recent%20activity" alt="activity graph"/>
-</p>
-
-### 🌐 Find me
-
-- 🌍 [marvax.fun](https://marvax.fun)
-- ✍️ [m4rv4x.github.io](https://m4rv4x.github.io)
-- 💬 `@dirtyak6204` on Discord
+- Site: [marvax.fun](https://marvax.fun)
+- Blog: [m4rv4x.github.io](https://m4rv4x.github.io)
+- Discord: `@dirtyak6204`
 
 ---
 
-<sub>"Précision. Action. Impact." — 🗡️</sub>
+<sub>Precision. Action. Impact.</sub>
