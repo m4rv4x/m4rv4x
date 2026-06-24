@@ -24,16 +24,6 @@
 - Keeping a cleaner set of public repos with better docs.
 - Contributing useful fixes upstream when the scope is tight and real.
 
-## Selected public projects
-
-| Project | Summary |
-|---|---|
-| [**marvax-fun-site**](https://github.com/m4rv4x/marvax-fun-site) | Personal landing page for `marvax.fun`. |
-| [**m4rv4x.github.io**](https://github.com/m4rv4x/m4rv4x.github.io) | Blog and notes hub powered by Jekyll Chirpy. |
-| [**mxgpt**](https://github.com/m4rv4x/mxgpt) | Self-hosted AI chat interface for Ollama-style local setups. |
-| [**scripts**](https://github.com/m4rv4x/scripts) | Shell and desktop utility scripts collected over time. |
-| [**kaomojis**](https://github.com/m4rv4x/kaomojis) | Lightweight kaomoji collection. |
-
 ## Stack
 
 TypeScript, React, Next.js, Python, Docker, Debian, Proxmox, Ollama.
