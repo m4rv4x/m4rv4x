@@ -1,39 +1,31 @@
-<h1 align="center">marvax</h1>
+# m4rv4x
 
-<p align="center">
-  <i>Builder focused on self-hosted tools, web products, automation, and practical AI.</i>
-</p>
+French developer working on AI agents, security tooling, and self-hosted infrastructure.
+Building autonomous systems that run on my own hardware, not someone else's cloud.
 
-<p align="center">
-  <a href="https://marvax.fun"><img src="https://img.shields.io/badge/site-marvax.fun-111?style=flat-square&logo=cloudflare&logoColor=white" alt="site"/></a>
-  <a href="https://m4rv4x.github.io"><img src="https://img.shields.io/badge/blog-m4rv4x.github.io-111?style=flat-square&logo=githubpages&logoColor=white" alt="blog"/></a>
-  <img src="https://img.shields.io/github/followers/m4rv4x?style=flat-square&logo=github&label=follow" alt="followers"/>
-</p>
+## Highlighted Projects
 
----
+- [docs-intelligence-agent](https://github.com/m4rv4x/docs-intelligence-agent) — Taste-driven GitHub docs-and-maintenance agent focused on visible public value
+- [repo-maintenance-agent](https://github.com/m4rv4x/repo-maintenance-agent) — Guarded orchestration layer for multi-repo maintenance workflows
+- [fregate](https://github.com/m4rv4x/fregate) — LLM benchmark suite scoring models on code, reasoning, language, tools & features
+- [mxgpt](https://github.com/m4rv4x/mxgpt) — Self-hosted AI webchat, React + Ollama, Docker-ready
+- [discord-gpt-bot](https://github.com/m4rv4x/discord-gpt-bot) — Discord bot powered by OpenAI with multi-persona support, Dockerized
+- [android-hermes-boot](https://github.com/m4rv4x/android-hermes-boot) — Boot scripts and daemon stack for running Hermes on Android via Termux + proot
+- [hl1-scientist-pack](https://github.com/m4rv4x/hl1-scientist-pack) — Half-Life 1 Scientist vocal reactions daemon for Hermes agent, 379 clips across 36 categories
+- [marvax-edge](https://github.com/m4rv4x/marvax-edge) — Cloudflare Pages + Worker public edge surface for Marvax
 
-## What I build
+## Tech Stack
 
-- Self-hosted apps with simple deployment paths.
-- Small web products with clean UX and minimal overhead.
-- Automation, Linux tooling, and practical AI experiments.
+**Languages** Python, TypeScript, JavaScript, Shell
 
-## Current focus
+**AI / Agents** OpenAI API, Ollama, Vercel AI SDK, custom orchestration layers
 
-- Improving `marvax.fun` and my public writing pipeline.
-- Keeping a cleaner set of public repos with better docs.
-- Contributing useful fixes upstream when the scope is tight and real.
+**Infra / Self-hosted** Docker, Cloudflare Workers/Pages, Termux + proot, Debian
 
-## Stack
+**Security** Honeypots, network tooling, hacking scripts, scanners
 
-TypeScript, React, Next.js, Python, Docker, Debian, Proxmox, Ollama.
-
-## Find me
-
-- Site: [marvax.fun](https://marvax.fun)
-- Blog: [m4rv4x.github.io](https://m4rv4x.github.io)
-- Discord: `@dirtyak6204`
+**Other** Discord.js, Next.js, Jekyll
 
 ---
 
-<sub>Precision. Action. Impact.</sub>
+Blog: [m4rv4x.github.io](https://m4rv4x.github.io)
